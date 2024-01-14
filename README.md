@@ -3,7 +3,7 @@ This is a chatbot I made for Graphic Era Hill University.
 Instructions:
 1. To start you can download the repository and put all files into the same folder.
 2. Download the following libraries for python;
-   >PyTorch
+   >PyTorch,
    >NLTK
 3. Then run 'nltk.download('punkt')' in the console to download the 'punkt' package for 'nltk' library.
 4. Then to run the code, first step is to run the 'train.py' file.
